@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IPFS Lite</string>
+    <string name="channel_name">Daten Benachrichtigung</string>
+    <string name="channel_description">Benachrichtigungen für Up- und Downloads</string>
+    <string name="daemon_channel_name">Service Benachrichtigungen</string>
+    <string name="multi_hash">Multihash</string>
+    <string name="content_url">Content ID (CID)</string>
+    <string name="share">Teilen</string>
+    <string name="settings">Settings</string>
+    <string name="action_select_all">Alle Auswählen</string>
+
+    <string name="codec_not_supported">Nicht unterstützter QR-Code</string>
+    <string name="app_settings">Einstellungen</string>
+    <string name="copy_to">Kopieren nach…</string>
+    <string name="search">Suche</string>
+    <string name="name_not_valid">Name ist nicht gültig</string>
+    <string name="documentation">Dokumentation</string>
+    <string name="file_not_found">Datei konnte nicht runtergeladen werden</string>
+    <string name="files">Dateien</string>
+    <string name="no_activity_found_to_handle_uri">Keine Applikation gefunden, welche die Datei verabeiten kann.</string>
+    <string name="daemon_channel_description">Benachrichtigung das der Service getarted ist</string>
+    <string name="information">Information</string>
+    <string name="url_data_access">The QR Code enthält die URL um auf die Daten \"%1$s\" zuzugreifen.</string>
+    <string name="feature_camera_required">Feature Kamera benötigt</string>
+    <string name="cid_not_valid">Content ID ist nicht gültig</string>
+    <string name="connection_timeout">Connection Timeout %1$s[s]</string>
+    <string name="publisher_service_time">Publisher Service Interval %1$s[h]</string>
+    <string name="permission_camera_denied">Permission Kamera</string>
+    <string name="no_marked_file_delete">Keine Dateien zum Löschen</string>
+    <string name="download_failed">Download schlug fehl für \"%1$s\"</string>
+    <string name="content_already_exists">Datei mit der Content ID \"%1$s\" existiert bereits</string>
+    <string name="delete">Entfernen</string>
+    <string name="revert_operation">Rückgängig</string>
+    <string name="delete_files">%1$s Dateien entfernen</string>
+    <string name="delete_file">Datei entfernen</string>
+    <string name="scan">Scannen</string>
+    <string name="action_backup">Backup</string>
+    <string name="ipfs">ipfs</string>
+    <string name="action_add_dir">Import Ordner</string>
+
+    <string name="file_has_no_read_permission">Keine \"Read Permission\" für die Datei</string>
+    <string name="file_has_no_write_permission">Keine \"Write Permission\" für den Speicherort</string>
+    <string name="file_not_valid">Datei ist nicht gültig</string>
+    <string name="sort">Sortieren nach</string>
+    <string name="sort_name">Dateiname (A bis Z)</string>
+    <string name="sort_name_inverse">Dateinname (Z bis A)</string>
+    <string name="sort_date">Datum (neustes zuerst)</string>
+    <string name="sort_date_inverse">Datum (ältestes zuerst)</string>
+    <string name="sort_size">Größe (absteigend)</string>
+    <string name="sort_size_inverse">Größe (aufsteigend)</string>
+    <string name="new_folder">Neuer Ordner</string>
+    <string name="rename_file">Neuer Name</string>
+    <string name="action_rename">Umbenennen</string>
+    <string name="empty_text">Kein Text definiert</string>
+    <string name="new_text_file">Neue Text Datei</string>
+
+    <string name="publish_files">Veröffentlichen…</string>
+    <string name="uploading">Hochladen…</string>
+    <string name="server_mode">Server Mode</string>
+    <string name="browser">Browser</string>
+    <string name="download_title">Download Daten</string>
+    <string name="bookmarks">Lesezeichen</string>
+    <string name="bookmark">Lesezeichen</string>
+    <string name="bookmark_added">Lesezeichen \"%1$s\" hinzugefügt</string>
+    <string name="bookmark_removed">Lesezeichen \"%1$s\" entfernt</string>
+    <string name="share_link">Share Link</string>
+    <string name="find_page">Auf Seite suchen</string>
+    <string name="delete_browser_data">Browserdaten löschen…</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="port">Port</string>
+    <string name="service_is_running">Service läuft auf Port \"%1$s\"…</string>
+    <string name="edit_text">Text editieren…</string>
+    <string name="publisher_service_details">Wenn die Anwendung im Servermodus ausgeführt wird, legt das Intervall des Veröffentlichungsdienstes den Zeitraum fest, in dem Ihre Inhalte erneut in IPFS veröffentlicht werden.</string>
+    <string name="connection_timeout_details">Der Connection-Timeout definiert die maximale Zeit für das Auffinden eines Peers auf dem IPFS.</string>
+    <string name="enter_url">Scan-URL oder Sucheingabe</string>
+    <string name="warning">Warnung</string>
+    <string name="delete_browser_data_warning">Es werden alle Daten entfernt, dazu gehören Ihre bereitgestellten Inhalte und alle Browserdaten wie Cookies, Cache-Daten, etc.</string>
+
+
+
+
+    <string name="redirect_url_support">Redirect URL Support</string>
+    <string name="redirect_index_support">Redirect Index HTML</string>
+    <string name="redirect_url_support_text">Wenn diese Option aktiviert ist, werden URLs, die auf IPFS- oder IPNS-Inhalte verweisen, automatisch auf den lokalen IPFS-Knoten umgeleitet. Derzeit werden nur URLs der Form https://xxx/ipfs/… oder https://xxx/ipns/… umgeleitet.</string>
+    <string name="redirect_index_support_text">Wenn diese Option aktiviert ist, dann versucht der lokale Knoten zu einer angegeben ipfs oder ipns URL eine HTML index Datei zu finden, sofern sie nicht angeben wurde.</string>
+    <string name="url_access">Der QR-Code enthält die URL der aktuellen Webseite</string>
+    <string name="scan_url">Scan URL</string>
+    <string name="enable_publisher">Enable Publisher</string>
+    <string name="cleanup_caches">Bereinigung interner Caches wie IPFS-Daten, Bilder, etc.</string>
+
+    <string name="authentication">Authentifizierung</string>
+    <string name="password">Password</string>
+    <string name="user_name">Username</string>
+
+
+    <string name="enable_javascript">Enable Javascript</string>
+    <string name="javascript_text">Wenn Javascript deaktiviert ist, funktionieren viele Websites möglicherweise nicht richtig.</string>
+
+    <string name="browser_handle_file">Browser kann die Datei \"%1$s\" nicht verarbeiten</string>
+    <string name="homepage">Homepage</string>
+</resources>

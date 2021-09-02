@@ -1,0 +1,1 @@
+Unterstützt die Standard-Anwendungsfälle von IPFS

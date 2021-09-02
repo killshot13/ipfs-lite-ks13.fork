@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IPFS Lite</string>
+    <string name="channel_name">储存通知</string>
+    <string name="channel_description">用于上传和下载通知</string>
+    <string name="daemon_channel_name">守护程序通知</string>
+    <string name="daemon_channel_description">关于守护程序已启动的通知</string>
+    <string name="information">信息</string>
+    <string name="content_url">内容编号 (CID)</string>
+    <string name="multi_hash">多哈希</string>
+    <string name="url_data_access">QR码包含一个URL以访问数据内容。\"%1$s\"</string>
+    <string name="feature_camera_required">需要功能相机</string>
+    <string name="share">分享</string>
+    <string name="settings">设定值</string>
+    <string name="cid_not_valid">CID无效</string>
+    <string name="codec_not_supported">不支持编解码器</string>
+    <string name="files">档案</string>
+    <string name="action_select_all">全选</string>
+    <string name="no_activity_found_to_handle_uri">找不到支持这种文件的应用程序。</string>
+    <string name="connection_timeout">连接超时 %1$s[s]</string>
+    <string name="publisher_service_time">发布者服务间隔 %1$s[h]</string>
+    <string name="app_settings">设定值</string>
+    <string name="permission_camera_denied">许可摄像机被拒绝</string>
+    <string name="documentation">文献资料</string>
+    <string name="no_marked_file_delete">沒有標記為刪除的文件</string>
+    <string name="file_not_found">无法下载文件</string>
+    <string name="name_not_valid">名称无效</string>
+    <string name="download_failed">的下载失败 \"%1$s\"</string>
+    <string name="search">搜索</string>
+    <string name="copy_to">复制到</string>
+    <string name="content_already_exists">内容已经存在CID \"%1$s\"</string>
+    <string name="delete">删除</string>
+    <string name="revert_operation">还原</string>
+    <string name="delete_files">%1$s 删除档案</string>
+    <string name="delete_file">删除档案</string>
+    <string name="scan">扫描</string>
+    <string name="action_backup">后备</string>
+    <string name="ipfs">ipfs</string>
+    <string name="action_add_dir">添加目录</string>
+
+    <string name="file_has_no_read_permission">No \"Read Permission\" for the file</string>
+    <string name="file_has_no_write_permission">No \"Write Permission\" on the location</string>
+    <string name="file_not_valid">档案无效</string>
+    <string name="sort">排序方式</string>
+    <string name="sort_name">档名（A到Z）</string>
+    <string name="sort_name_inverse">文件名（Z到A）</string>
+    <string name="sort_date">日期（从新到旧）</string>
+    <string name="sort_date_inverse">日期（最早的日期）</string>
+    <string name="sort_size">大小（降序）</string>
+    <string name="sort_size_inverse">大小（升序）</string>
+    <string name="new_folder">新建文件夹</string>
+    <string name="rename_file">重新命名文件</string>
+    <string name="action_rename">改名</string>
+    <string name="empty_text">未定义文字</string>
+    <string name="new_text_file">添加文字</string>
+
+
+    <string name="publish_files">发布图钉</string>
+    <string name="uploading">上载…</string>
+    <string name="server_mode">服务器模式</string>
+
+
+    <string name="browser">浏览器</string>
+    <string name="download_title">下载文件</string>
+    <string name="bookmarks">书签</string>
+    <string name="bookmark">书签</string>
+    <string name="bookmark_added">书签\"%1$s\"已添加</string>
+    <string name="bookmark_removed">书签已删除 \"%1$s\"</string>
+    <string name="share_link">分享链接</string>
+    <string name="find_page">在页面中查找</string>
+    <string name="delete_browser_data">删除浏览器数据</string>
+    <string name="previous">以前</string>
+    <string name="next">下一个</string>
+    <string name="port">港口</string>
+    <string name="service_is_running">服务正在运行 \"%1$s\"</string>
+    <string name="edit_text">编辑文字…</string>
+    <string name="publisher_service_details">当应用程序在服务器模式下运行时。发布者服务间隔定义了将内容重新发布到IPFS的时间段。</string>
+    <string name="connection_timeout_details">连接超时定义了在IPFS上查找对等方或内容的最长时间。</string>
+    <string name="enter_url" >扫描网址或搜索输入</string>
+    <string name="warning">警告</string>
+    <string name="delete_browser_data_warning">所有数据将被删除，其中包括您提供的内容以及所有浏览器数据，例如Cookie，缓存数据等。</string>
+
+
+
+    <string name="redirect_url_support">重定向URL支持</string>
+    <string name="redirect_index_support">重定向索引HTML</string>
+    <string name="redirect_url_support_text">启用此选项后，引用IPFS或IPNS内容的URL将自动重定向到本地IPFS节点。目前，仅格式为https：// xxx / ipfs /…或https：// xxx / ipns /…的URL将被重定向。</string>
+    <string name="redirect_index_support_text">如果启用此选项，则本地节点将尝试为给定的ipfs或ipns URL查找HTML索引文件（如果未指定）。</string>
+    <string name="url_access">QR码包含URL</string>
+    <string name="scan_url">扫描URL</string>
+    <string name="enable_publisher">启用出版商</string>
+    <string name="cleanup_caches">清理内部缓存，如IPFS数据、图片等。</string>
+
+    <string name="authentication">认证</string>
+    <string name="password">密码</string>
+    <string name="user_name">帳號</string>
+
+
+    <string name="enable_javascript">启用Javascript</string>
+    <string name="javascript_text">禁用javascript後，許多網站可能無法正常運行。</string>
+
+    <string name="browser_handle_file">浏览器无法处理 \"%1$s\"</string>
+    <string name="homepage">主页</string>
+</resources>

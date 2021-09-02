@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">IPFS Lite</string>
+    <string name="channel_name">Storage Notifications</string>
+    <string name="channel_description">For upload and download notifications</string>
+    <string name="daemon_channel_name">Daemon Notifications</string>
+    <string name="daemon_channel_description">Notification that the daemon has started</string>
+    <string name="information">Information</string>
+    <string name="content_url">Content - URL</string>
+    <string name="multi_hash">Multihash</string>
+    <string name="url_data_access">The QR code contains the URL to access the content of the data \"%1$s\".</string>
+    <string name="feature_camera_required">Feature camera required</string>
+    <string name="share">Share</string>
+    <string name="settings">Settings</string>
+    <string name="cid_not_valid">CID is not valid</string>
+    <string name="codec_not_supported">Not supported QR-Code</string>
+    <string name="files">Files</string>
+    <string name="action_select_all">Select All</string>
+    <string name="no_activity_found_to_handle_uri">No application found which support this kind of file.</string>
+    <string name="connection_timeout">Connection Timeout %1$s[s]</string>
+    <string name="publisher_service_time">Publisher Service Interval %1$s[h]</string>
+    <string name="app_settings">Settings</string>
+    <string name="permission_camera_denied">Permission camera</string>
+    <string name="documentation">Documentation</string>
+    <string name="no_marked_file_delete">No files marked for deletion</string>
+    <string name="file_not_found">File could not be downloaded</string>
+    <string name="name_not_valid">Name not valid</string>
+    <string name="download_failed">Download failed for \"%1$s\"</string>
+    <string name="search">Search</string>
+    <string name="copy_to">Copy to…</string>
+    <string name="content_already_exists">Content exists already with CID \"%1$s\"</string>
+
+    <string name="delete">Delete</string>
+    <string name="revert_operation">Revert</string>
+    <string name="delete_files">Delete %1$s files</string>
+    <string name="delete_file">Delete file</string>
+    <string name="scan">Scan</string>
+    <string name="action_backup">Backup</string>
+    <string name="ipfs">ipfs</string>
+    <string name="action_add_dir">Import Folder</string>
+
+    <string name="file_has_no_read_permission">No \"Read Permission\" for the file</string>
+    <string name="file_has_no_write_permission">No \"Write Permission\" on the location</string>
+    <string name="file_not_valid">File is not valid</string>
+    <string name="sort">Sort by</string>
+
+    <string name="sort_name">File name (A to Z)</string>
+    <string name="sort_name_inverse">File name (Z to A)</string>
+    <string name="sort_date">Date (newest first)</string>
+    <string name="sort_date_inverse">Date (oldest first)</string>
+    <string name="sort_size">Size (descending)</string>
+    <string name="sort_size_inverse">Size (ascending)</string>
+    <string name="new_folder">New Folder</string>
+    <string name="rename_file">Rename File</string>
+    <string name="action_rename">Rename</string>
+    <string name="empty_text">No text defined</string>
+    <string name="new_text_file">New Text File</string>
+
+
+    <string name="publish_files">Publishing…</string>
+    <string name="uploading">Uploading…</string>
+    <string name="server_mode">Server Mode</string>
+
+    <string name="browser">Browser</string>
+    <string name="download_title">Download Data</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="bookmark_added">Bookmark \"%1$s\" added</string>
+    <string name="bookmark_removed">Bookmark \"%1$s\" removed</string>
+    <string name="share_link">Share Link</string>
+    <string name="find_page">Find in page</string>
+    <string name="delete_browser_data">Delete browser data…</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="port">Port</string>
+    <string name="service_is_running">Service is running on port \"%1$s\"…</string>
+    <string name="edit_text">Edit text…</string>
+    <string name="publisher_service_details">When the application runs in server mode, the publisher service interval defines the time period when your content will be republished to IPFS.</string>
+    <string name="connection_timeout_details">The connection timeout defines the maximum time for finding a peer on IPFS.</string>
+    <string name="enter_url">Scan-URL or search input</string>
+    <string name="warning">Warning</string>
+    <string name="delete_browser_data_warning">All data will be removed, this includes your provided content and all browser data like cookies, cache data, etc.</string>
+
+
+
+    <string name="redirect_url_support">Redirect URL Support</string>
+    <string name="redirect_index_support">Redirect Index HTML</string>
+    <string name="redirect_url_support_text">When this option is enabled, URLs which references IPFS or IPNS content, will be automatically redirected to the local IPFS node. Currently only URLs of the form https://xxx/ipfs/… or https://xxx/ipns/… will be redirected.</string>
+    <string name="redirect_index_support_text">If this option is enabled, the local node tries to find an HTML index file for a given ipfs or ipfs URL if it is not specified.</string>
+    <string name="url_access">The QR-Code contains the URL of the current website</string>
+    <string name="scan_url">Scan URL</string>
+    <string name="enable_publisher">Enable Publisher</string>
+    <string name="cleanup_caches">Cleanup internal caches like IPFS data, pictures, etc</string>
+
+    <string name="authentication">Authentication</string>
+    <string name="password">Password</string>
+    <string name="user_name">Username</string>
+
+
+    <string name="enable_javascript">Enable Javascript</string>
+    <string name="javascript_text">When javascript is disabled, many websites might not work properly.</string>
+    <string name="browser_handle_file">Browser can not handle \"%1$s\"</string>
+    <string name="homepage">Homepage</string>
+</resources>

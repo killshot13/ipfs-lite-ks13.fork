@@ -1,0 +1,9 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<resources>
+    <color name="colorStatus">#333333</color>
+    <color name="colorPrimary">@android:color/holo_blue_dark</color>
+    <color name="colorSelectedItem">#333333</color>
+    <color name="colorChips">#333333</color>
+    <color name="colorActiveImage">@android:color/white</color>
+    <color name="colorPassiveImage">@android:color/darker_gray</color>
+</resources>

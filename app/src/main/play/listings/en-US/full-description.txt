@@ -1,0 +1,11 @@
+<h2><b>IPFS</b></h2>
+The InterPlanetary File System <i>is a peer-to-peer (p2p) filesharing system that aims to fundamentally change the way information is distributed across & beyond the globe. IPFS consists of several innovations in communication protocols and distributed systems that have been combined to produce a file system like no other.</i>
+</br>
+"It attempts to address the deficiencies of the client-server model and HTTP web through a novel p2p file sharing system."
+</br>
+Official website of IPFS: https://ipfs.io/
+
+<h2><b>Features</b></h2>
+Support of the standard uses cases of IPFS.</br>
+Support limited configuration of the IPFS node.</br>
+Run the IPFS node in client or server mode.</br>

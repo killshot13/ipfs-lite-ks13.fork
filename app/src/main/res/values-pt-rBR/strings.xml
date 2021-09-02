@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">IPFS Lite</string>
+    <string name="channel_name">Notificações de armazenamento</string>
+    <string name="channel_description">Para notificações de upload e download</string>
+    <string name="daemon_channel_name">Notificações de Daemon</string>
+    <string name="daemon_channel_description">Notificação que foi iniciada pelo Daemon</string>
+    <string name="information">Informação</string>
+    <string name="content_url">ID de conteúdo - URL</string>
+    <string name="multi_hash">Multihash</string>
+    <string name="url_data_access">O código QR contém URL para acessar o conteúdo dos dados \"%1$s\".</string>
+    <string name="feature_camera_required">Feature câmera necessária</string>
+    <string name="share">Compartilhar</string>
+    <string name="settings">Configurações</string>
+    <string name="cid_not_valid">CID não é válido</string>
+    <string name="codec_not_supported">O Codec não é suportado</string>
+    <string name="files">Arquivos</string>
+    <string name="action_select_all">Selecionar Todo</string>
+    <string name="no_activity_found_to_handle_uri">Não foi encontrado nenhum aplicativo que pode suportar este tipo de arquivo.</string>
+    <string name="connection_timeout">Tempo limite de conexão %1$s[s]</string>
+    <string name="publisher_service_time">Intervalo do serviço de publicador %1$s[h]</string>
+    <string name="app_settings">Configurações</string>
+    <string name="permission_camera_denied">Permissão da câmera negada</string>
+    <string name="documentation">Documentação</string>
+    <string name="no_marked_file_delete">Nenhum arquivo marcado para excluir</string>
+    <string name="file_not_found">O arquivo não pôde ser baixado</string>
+    <string name="name_not_valid">Nome não é válido</string>
+    <string name="download_failed">O download para \"%1$s\" falhou</string>
+    <string name="search">Buscar</string>
+    <string name="copy_to">Copiar para…</string>
+    <string name="content_already_exists">O conteúdo com CID \"%1$s\" já existe</string>
+
+    <string name="delete">Excluir</string>
+    <string name="revert_operation">Reverter</string>
+    <string name="delete_files">Excluir %1$s arquivos</string>
+    <string name="delete_file">Excluir arquivo</string>
+    <string name="scan">Digitalizar</string>
+    <string name="action_backup">Backup</string>
+    <string name="ipfs">ipfs</string>
+    <string name="action_add_dir">Pasta de Importação</string>
+
+    <string name="file_has_no_read_permission">Sem \"Permissão de leitura\" para o arquivo</string>
+    <string name="file_has_no_write_permission">Sem \"Permissão de escrita\" para a localização</string>
+    <string name="file_not_valid">O arquivo não é válido</string>
+    <string name="sort">Ordenar por</string>
+
+    <string name="sort_name">Nome de arquivo (A - Z)</string>
+    <string name="sort_name_inverse">Nome de arquivo (Z - A)</string>
+    <string name="sort_date">Data (primeiro mais novo)</string>
+    <string name="sort_date_inverse">Data (primeiro mais antigo)</string>
+    <string name="sort_size">Tamanho (descendente)</string>
+    <string name="sort_size_inverse">Tamanho (crescente)</string>
+    <string name="new_folder">Nova Pasta</string>
+    <string name="rename_file">Renomear arquivo</string>
+    <string name="action_rename">Renomear</string>
+    <string name="empty_text">Nenhum texto definido</string>
+    <string name="new_text_file">Novo arquivo de texto</string>
+
+
+    <string name="publish_files">Publicando…</string>
+    <string name="uploading">Subindo…</string>
+    <string name="server_mode">Modo Servidor</string>
+
+    <string name="browser">Navegador</string>
+    <string name="download_title">Baixar Data</string>
+    <string name="bookmarks">Favoritos</string>
+    <string name="bookmark">Favorito</string>
+    <string name="bookmark_added">Adicionado \"%1$s\" aos favoritos</string>
+    <string name="bookmark_removed">Excluído \"%1$s\" dos favoritos</string>
+    <string name="share_link">Compartilhar Link</string>
+    <string name="find_page">Procurar na página</string>
+    <string name="delete_browser_data">Excluir dados do navegador</string>
+    <string name="previous">Anterior</string>
+    <string name="next">Próximo</string>
+    <string name="port">Porta</string>
+    <string name="service_is_running">Serviço está funcionando \"%1$s\"…</string>
+    <string name="edit_text">Editar texto…</string>
+    <string name="publisher_service_details">Quando o App é executado em modo de servidor, o Intervalo do serviço de publicador define o período de tempo em que seu conteúdo será republicado no IPFS.</string>
+    <string name="connection_timeout_details">O tempo limite de conexão define o tempo máximo para encontrar um Peer no IPFS.</string>
+    <string name="enter_url">URL ou termo de busca</string>
+    <string name="warning">Alerta</string>
+    <string name="delete_browser_data_warning">Todos os dados serão removidos, isto inclui seu conteúdo fornecido e todos os dados do navegador como cookies, dados de cache, etc.</string>
+
+
+
+    <string name="redirect_url_support">Suporte Redirecionado de URL</string>
+    <string name="redirect_index_support">Redirecionar o índice HTML</string>
+    <string name="redirect_url_support_text">Quando esta opção estiver ativada, as URLs que referenciam o conteúdo IPFS ou IPNS, serão automaticamente redirecionadas para o nó IPFS local. Atualmente apenas as URLs do formulário https://xxx/ipfs/… ou https://xxx/ipns/… serão redirecionadas.</string>
+    <string name="redirect_index_support_text">Se esta opção estiver ativada, o nó local tenta encontrar um arquivo de índice HTML para uma determinada URL ipfs ou ipns se ela não estiver especificada.</string>
+    <string name="url_access">O QR-Code contém o URL</string>
+    <string name="scan_url">URL da varredura</string>
+    <string name="enable_publisher">Habilitar Editora</string>
+    <string name="cleanup_caches">Limpeza de caches internos como dados IPFS, fotos, etc.</string>
+
+    <string name="authentication">Autenticação</string>
+    <string name="password">Senha</string>
+    <string name="user_name">Nome de usuário</string>
+
+
+    <string name="enable_javascript">Javascript habilitado</string>
+    <string name="javascript_text">Quando o javascript está desabilitado, muitos sites podem não funcionar corretamente.</string>
+
+    <string name="browser_handle_file">O navegador não consegue lidar \"%1$s\"</string>
+    <string name="homepage">Pagina inicial</string>
+</resources>
