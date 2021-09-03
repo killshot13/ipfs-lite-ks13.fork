@@ -2,7 +2,7 @@
 
 IPFS Lite is an application to support the standard use cases of IPFS
 
->This is my personal fork of @remmerw's Android IPFS application
+>This is my personal fork of @remmerw's Android IPFS application.
 
 ## General 
 
